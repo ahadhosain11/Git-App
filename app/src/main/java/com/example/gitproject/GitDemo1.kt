@@ -22,6 +22,10 @@ fun GitExample(modifier: Modifier = Modifier) {
         Text(
             text = "Git Demo 2 "
         )
+        Text(
+            text = "Git Demo 3 "
+        )
+
 
     }
 }
